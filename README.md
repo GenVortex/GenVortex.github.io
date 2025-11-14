@@ -1,7 +1,7 @@
 ---
 title: "README"
 layout: default
-permalink: /README/
+permalink: /readme/
 ---
 
 
