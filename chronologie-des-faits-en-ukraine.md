@@ -1,7 +1,7 @@
 ---
-title: "Chronologie des faits en Ukraine"
+[title: "Chronologie des faits en Ukraine"
 layout: default
-permalink: /chronologie-des-faits-en-ukraine/
+permalink: /chronologie-des-faits-en-ukraine/](https://genvortex.github.io/chronologie-des-faits-en-ukraine.md)
 ---
 # Histoire de l'Ukraine : Contexte et Événements Clés PAR ORDRE CHRONOLOGIQUE
 
@@ -81,6 +81,7 @@ Moins d'un mois après le début de cette « Opération spéciale » un accord e
 
 
 La guerre continue donc depuis.
+
 
 
 
