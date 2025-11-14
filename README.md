@@ -14,11 +14,11 @@ A ce moment-là la secrétaire d'état américaine Nuland vient encourager la po
 
 Un président élu par le peuple ukrainien a donc été renversé par la seule population de Kiev avec l'aide de la CIA. 
 
-Le 23 février 2014 le président de la Douma assure l'intérim du président et menace de supprimer la langue russe comme langue officielle en abrogeant la loi Kivalov-Kolesnichenko.. Cela concerne non seulement la langue russe mais toutes les langues minoritaires, dont le hongrois, ce qui explique que Victor Orban a refusé de soutenir Kiev, et ce qui explique aussi la position récente de la Roumanie, dont la population est aussi présente en Ukraine.
+Le 23 février 2014 le président de la Douma assure l'intérim du président et menace de supprimer la langue russe comme langue officielle en abrogeant la loi Kivalov-Kolesnichenko.. Cela concerne non seulement la langue russe mais toutes les langues minoritaires, dont le hongrois, ce qui explique que Victor Orban a refusé de soutenir Kiev, et ce qui explique aussi la position récente de la Roumanie, dont la population est aussi présent en Ukraine.
 
 Pour info les langues régionales étaient pourtant inscrites dans la constitution Ukrainienne depuis 1989, avant la fin de l'URSS :
 "Les langues nationales peuvent être employées parallèlement à la langue ukrainienne dans les activités de l'État, le Parti, les organismes publics, les entreprises, les institutions et les organisations placés dans les lieux où résident la majorité des citoyens des autres nationalités (villes, régions, villages et conseils d'établissement, etc.)."
-https://www.axl.cefan.ulaval.ca/europe/ukraine_loi-1989.htm
+[Loi sur les langues de 1989](https://www.axl.cefan.ulaval.ca/europe/ukraine_loi-1989.htm)
 
 Je dis bien MENACE, car les députés se sont ravisés et ont annulé l'abrogation ! 
 Mais toutes les populations minoritaires ont bien compris que le pouvoir central de Kiev ne voulait plus respecter les minorités !
@@ -32,12 +32,12 @@ La Crimée n'a été liée à l'Ukraine que de 1954 à 2014, soit seulement 60 a
 Le 11 mai 2014 les républiques du Dombass, russophones et russophiles, créent leur propre référendum et suite aux résultats proclament leur autonomie. 
 
 Kiev refuse les résultats de ces référendums et va bombarder le Dombass régulièrement, les russophones sont considérés comme des moins que rien. Voici le discours du nouveau président de l'Ukraine, mis en place en 2014 dès que l'intérim a été fini :
-https://youtu.be/tkBv2fvzAf4?si=xWYfs7xDxMXBWaS4
+[Discours de Porochenko (YouTube)](https://youtu.be/tkBv2fvzAf4?si=xWYfs7xDxMXBWaS4)
 
 Un premier accord est mis en place à Minsk pour essayer de calmer la situation et trouver une solution de cessez-le-feu. Il ne tiendra pas. Un deuxième accord Minsk 2 est mis en place le 11 février 2015. Il se tient en présence de Vladimir Poutine, président russe, Petro Porochenko, président ukrainien, Angela Merkel, chancelière allemande, François Hollande, président français, Alexandre Zakhartchenko, représentant de la république populaire de Donetsk, et d’Igor Plotnitski, représentant de la république populaire de Lougansk. 
 
 La France et l'Allemagne devaient être garantes de l'accord mais on sait maintenant, parce qu'ils l'ont dit publiquement, que leur seul but était de laisser l'Ukraine s'armer afin d'obliger par la force le Dombass à renoncer à son autonomie.
-https://fr.wikipedia.org/wiki/Minsk_II
+[Accords de Minsk II (Wikipédia)](https://fr.wikipedia.org/wiki/Minsk_II)
 
 Ces accords ne sont donc pas respectés, et la population ukrainienne vit donc une guerre contre le Dombass, où le gouvernement central de Kiev, avec l’aide de troupes nationalistes et parfois pro-nazis (Azof) s’oppose à des populations qui ont voté pour leur indépendance. Cette guerre aura fait 14.000 morts.
 
@@ -46,7 +46,7 @@ En espérant sortir de ce chaos, la population ukrainienne décide de ne plus vo
 « Son discours est centré sur la dénonciation des « élites » et la lutte contre la corruption. Il promet notamment la suppression de l’immunité parlementaire, la mise en place d'une procédure de destitution du chef de l’État en cas de faute grave et la consultation régulière de la population avec des référendums. Il prône un cessez-le-feu dans le Donbass et l’organisation d’un référendum sur l’intégration de l’Ukraine dans l’OTAN. » Wikipédia
 
 Il est élu le 21 avril 2019, et quatre jours plus tard la Rada (assemblée) adopte finalement la nouvelle loi supprimant le russe comme langue officielle. Les russophones avaient bien raison de se révolter puisque maintenant SEULE la langue ukrainienne est désormais autorisée à être employée tant par les autorités nationales et locales, que par les entreprises, les institutions et les divers organismes; ainsi, la maîtrise de l’ukrainien est exigée par les fonctionnaires, les élus, les magistrats, les enseignants ainsi que la majorité des médias !
-https://www.axl.cefan.ulaval.ca/europe/ukraine-loi-lng-2019OK.htm
+[Loi sur la langue ukrainienne de 2019](https://www.axl.cefan.ulaval.ca/europe/ukraine-loi-lng-2019OK.htm)
 
 Et au lieu d’arrêter la guerre au Dombass, il la continue !
 
