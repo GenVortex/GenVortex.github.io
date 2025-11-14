@@ -1,3 +1,8 @@
+---
+title: "Chronologie des faits en Ukraine"
+layout: default
+permalink: /chronologie-des-faits-en-ukraine/
+---
 # Histoire de l'Ukraine : Contexte et Événements Clés PAR ORDRE CHRONOLOGIQUE
 
 On peut commencer l'histoire de l’Ukraine en 1991 lorsque le bloc soviétique explose et que des milliardaires, comme des requins après un naufrage, viennent s'emparer de toutes les richesses de l'état et que des mafias se mettent en place. Il n’y a plus de police, plus de professeurs, plus de retraites, plus rien, le chaos total.
@@ -73,5 +78,6 @@ Ainsi pendant 8 ans, de 2014 à 2022, Poutine voit à ses frontières des popula
 Il prévient, il amasse des troupes bien visibles, mais personne n'en tient compte, et donc enle 24 février 2022 il entre en Ukraine pour régler le problème, et celui de la présence de l'Otan par la même occasion.
 
 Moins d'un mois après le début de cette « Opération spéciale » un accord est quasiment trouvé en Turquie entre Poutine et Zelensky, **sans demande de rattachement du Donbass à la Russie**. Mais Boris Johnson fait sauter cet accord sur demande des démocrates américains.
+
 
 La guerre continue donc depuis.
