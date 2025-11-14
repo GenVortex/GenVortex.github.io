@@ -1,6 +1,6 @@
 ---
 title: "Chronologie des faits en Ukraine"
-layout: Null
+layout: default
 permalink: /chronologie-des-faits-en-ukraine/
 ---
 # Histoire de l'Ukraine : Contexte et Événements Clés PAR ORDRE CHRONOLOGIQUE
@@ -81,4 +81,5 @@ Moins d'un mois après le début de cette « Opération spéciale » un accord e
 
 
 La guerre continue donc depuis.
+
 
