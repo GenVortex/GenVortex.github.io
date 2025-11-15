@@ -22,14 +22,13 @@ Cela provoque de vives réactions en particulier des russophones et la création
 
 Poutine décide alors stratégiquement le 28 février 2014 d'intervenir pour sécuriser la république autonome de Crimée (qui a son propre parlement), et surtout la base navale du port de Sébastopol, qui a toujours été russe ! Un référendum est organisé, et le peuple décide quasiment à l’unanimité de faire partie de la fédération de Russie.
 
+<a href="https://GenVortex.github.io/images/referendum-2014-crimee.png" target="_blank" rel="noopener noreferrer">
+  <img src="https://GenVortex.github.io/images/referendum-2014-crimee.png" alt="Référendum 2014 Crimée" style="max-width:50%;height:auto;">
+</a>
+
 La Crimée n'a été liée à l'Ukraine que de 1954 à 2014, soit seulement 60 ans. Elle a donc quasiment toujours été russe, et est peuplée majoritairement de russes. On peut toujours discuter d'un référendum fait avec des hommes en armes, mais environ 60% de russes qui ne veulent pas voir leur langue perdre le statut de langue officielle, ça suffit largement à obtenir une majorité. 
 
 Le 11 mai 2014 les républiques du Dombass, russophones et russophiles, créent leur propre référendum et suite aux résultats proclament leur autonomie. 
-
-
-<a href="https://GenVortex.github.io/images/referendum-2014-crimee.png" target="_blank" rel="noopener noreferrer">
-  <img src="https://GenVortex.github.io/images/referendum-2014-crimee.png" alt="Référendum 2014 Crimée" style="max-width:100%;height:auto;">
-</a>
 
 Kiev refuse les résultats de ces référendums et va bombarder le Dombass régulièrement, les russophones sont considérés comme des moins que rien. Voici le discours du nouveau président de l'Ukraine, Petro Porochenko, en poste depuis 2014 dès que l'intérim a été fini :
 <a href="https://youtu.be/tkBv2fvzAf4?si=xWYfs7xDxMXBWaS4" target="_blank" rel="noopener noreferrer">https://youtu.be/tkBv2fvzAf4?si=xWYfs7xDxMXBWaS4</a>
