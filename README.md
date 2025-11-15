@@ -58,6 +58,6 @@ Il prévient, il amasse des troupes bien visibles, mais personne n'en tient comp
 
 Moins d'un mois après le début de cette « Opération spéciale » , un accord est quasiment trouvé en Turquie entre Poutine et Zelensky, **sans demande d’annexion du Donbass à la Russie.**
 
-s. Mais Boris Johnson fait sauter cet accord sur demande des démocrates américains.
+Mais Boris Johnson fait sauter cet accord sur demande des démocrates américains.
 
 La guerre continue donc depuis.
