@@ -22,8 +22,11 @@ Pour info les langues régionales étaient pourtant inscrites dans la constituti
 <a href="https://www.axl.cefan.ulaval.ca/europe/ukraine_loi-1989.htm" 
    target="_blank" 
    rel="noopener noreferrer"
-   onclick="setTimeout(() => { if (!this.dataset.loaded) window.open('/archives/ref-1-langues-1989.html', '_blank'); }, 4000);"
-   onload="this.dataset.loaded = 'true';"
+   onclick="event.preventDefault(); 
+            const url = this.href; 
+            const fallback = '/archives/ref-1-langues-1989.html';
+            const win = window.open(url, '_blank');
+            setTimeout(() => { if (win && win.closed) window.open(fallback, '_blank'); }, 4000);"
    style="display:inline;margin:0;padding:0;line-height:1.4;">
   https://www.axl.cefan.ulaval.ca/europe/ukraine_loi-1989.htm
 </a><span style="font-size:0.75em;color:#666;display:inline;margin-left:0.5em;">Si le site original est indisponible, la sauvegarde locale est chargée automatiquement.</span>
@@ -52,8 +55,11 @@ Kiev refuse les résultats de ces référendums et va bombarder le Dombass régu
 <a href="https://youtu.be/tkBv2fvzAf4?si=6GN1ISUWx-HbvyS7" 
    target="_blank" 
    rel="noopener noreferrer"
-   onclick="setTimeout(() => { if (!this.dataset.loaded) window.open('/archives/ref-4-porochenko-discours.mp4', '_blank'); }, 4000);"
-   onload="this.dataset.loaded = 'true';"
+   onclick="event.preventDefault(); 
+            const url = this.href; 
+            const fallback = '/archives/ref-4-porochenko-discours.mp4';
+            const win = window.open(url, '_blank');
+            setTimeout(() => { if (win && win.closed) window.open(fallback, '_blank'); }, 4000);"
    style="display:inline;margin:0;padding:0;line-height:1.4;">
   https://youtu.be/tkBv2fvzAf4?si=6GN1ISUWx-HbvyS7
 </a><span style="font-size:0.75em;color:#666;display:inline;margin-left:0.5em;">Si le site original est indisponible, la sauvegarde locale est chargée automatiquement.</span>
@@ -65,8 +71,11 @@ La France et l'Allemagne devaient être garantes de l'accord mais on sait mainte
 <a href="https://fr.wikipedia.org/wiki/Minsk_II" 
    target="_blank" 
    rel="noopener noreferrer"
-   onclick="setTimeout(() => { if (!this.dataset.loaded) window.open('/archives/ref-2-minsk-ii.html', '_blank'); }, 4000);"
-   onload="this.dataset.loaded = 'true';"
+   onclick="event.preventDefault(); 
+            const url = this.href; 
+            const fallback = '/archives/ref-2-minsk-ii.html';
+            const win = window.open(url, '_blank');
+            setTimeout(() => { if (win && win.closed) window.open(fallback, '_blank'); }, 4000);"
    style="display:inline;margin:0;padding:0;line-height:1.4;">
   https://fr.wikipedia.org/wiki/Minsk_II
 </a><span style="font-size:0.75em;color:#666;display:inline;margin-left:0.5em;">Si le site original est indisponible, la sauvegarde locale est chargée automatiquement.</span>
@@ -81,20 +90,3 @@ Il est élu le 21 avril 2019, et quatre jours plus tard la Rada (assemblée) ado
 
 <a href="https://www.axl.cefan.ulaval.ca/europe/ukraine-loi-lng-2019OK.htm" 
    target="_blank" 
-   rel="noopener noreferrer"
-   onclick="setTimeout(() => { if (!this.dataset.loaded) window.open('/archives/ref-3-loi-langues-2019.html', '_blank'); }, 4000);"
-   onload="this.dataset.loaded = 'true';"
-   style="display:inline;margin:0;padding:0;line-height:1.4;">
-  https://www.axl.cefan.ulaval.ca/europe/ukraine-loi-lng-2019OK.htm
-</a><span style="font-size:0.75em;color:#666;display:inline;margin-left:0.5em;">Si le site original est indisponible, la sauvegarde locale est chargée automatiquement.</span>
-
-Et au lieu d’arrêter la guerre au Dombass, il la continue !
-
-Ainsi pendant 8 ans, de 2014 à 2022, Poutine voit à ses frontières des populations russophones et russophiles, voire d’origine russes privées de leur langue maternelle se faire bombarder par Kiev sans que personne n'intervienne ! 
-Il prévient, il amasse des troupes bien visibles, mais personne n'en tient compte, et donc en février 2022 il entre en Ukraine pour régler le problème, et celui de la présence de l'Otan par la même occasion.
-
-Moins d'un mois après le début de cette « Opération spéciale » , un accord est quasiment trouvé en Turquie entre Poutine et Zelensky, **sans demande d’annexion du Donbass à la Russie.**
-
-Mais Boris Johnson intervient et fait sauter cet accord.
-
-La guerre continue donc depuis.
