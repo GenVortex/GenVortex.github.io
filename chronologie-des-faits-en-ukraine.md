@@ -22,7 +22,7 @@ Pour info les langues régionales étaient pourtant inscrites dans la constituti
 <a href="https://www.axl.cefan.ulaval.ca/europe/ukraine_loi-1989.htm" 
    target="_blank" 
    rel="noopener noreferrer"
-   onclick="setTimeout(() => { if (!this.dataset.loaded) window.open('./archives/ref-1-langues-1989.html', '_blank'); }, 4000);"
+   onclick="setTimeout(() => { if (!this.dataset.loaded) window.open('/archives/ref-1-langues-1989.html', '_blank'); }, 4000);"
    onload="this.dataset.loaded = 'true';"
    style="display:inline;margin:0;padding:0;line-height:1.4;">
   https://www.axl.cefan.ulaval.ca/europe/ukraine_loi-1989.htm
@@ -39,7 +39,7 @@ Poutine décide alors stratégiquement le 28 février 2014 d'intervenir pour sé
   <img src="https://GenVortex.github.io/images/referendum-2014-crimee.png" alt="Référendum 2014 Crimée" style="width:33%;height:auto;">
 </a>
 
-La Crimée n'a été liée à l'Ukraine que de 1954 à 2014, soit seulement 60 ans. Elle a donc quasiment toujours été russe, et est peuplée majoritairement de russes. On peut toujours discuter d'un référendum fait avec des hommes en armes, mais environ 60% de russis qui ne veulent pas voir leur langue perdre le statut de langue officielle, ça suffit largement à obtenir une majorité. 
+La Crimée n'a été liée à l'Ukraine que de 1954 à 2014, soit seulement 60 ans. Elle a donc quasiment toujours été russe, et est peuplée majoritairement de russes. On peut toujours discuter d'un référendum fait avec des hommes en armes, mais environ 60% de russes qui ne veulent pas voir leur langue perdre le statut de langue officielle, ça suffit largement à obtenir une majorité. 
 
 Le 11 mai 2014 les républiques du Dombass, russophones et russophiles, créent leur propre référendum et suite aux résultats proclament leur autonomie. 
 
@@ -52,7 +52,7 @@ Kiev refuse les résultats de ces référendums et va bombarder le Dombass régu
 <a href="https://youtu.be/tkBv2fvzAf4?si=6GN1ISUWx-HbvyS7" 
    target="_blank" 
    rel="noopener noreferrer"
-   onclick="setTimeout(() => { if (!this.dataset.loaded) window.open('./archives/ref-4-porochenko-discours.mp4', '_blank'); }, 4000);"
+   onclick="setTimeout(() => { if (!this.dataset.loaded) window.open('/archives/ref-4-porochenko-discours.mp4', '_blank'); }, 4000);"
    onload="this.dataset.loaded = 'true';"
    style="display:inline;margin:0;padding:0;line-height:1.4;">
   https://youtu.be/tkBv2fvzAf4?si=6GN1ISUWx-HbvyS7
@@ -65,7 +65,7 @@ La France et l'Allemagne devaient être garantes de l'accord mais on sait mainte
 <a href="https://fr.wikipedia.org/wiki/Minsk_II" 
    target="_blank" 
    rel="noopener noreferrer"
-   onclick="setTimeout(() => { if (!this.dataset.loaded) window.open('./archives/ref-2-minsk-ii.html', '_blank'); }, 4000);"
+   onclick="setTimeout(() => { if (!this.dataset.loaded) window.open('/archives/ref-2-minsk-ii.html', '_blank'); }, 4000);"
    onload="this.dataset.loaded = 'true';"
    style="display:inline;margin:0;padding:0;line-height:1.4;">
   https://fr.wikipedia.org/wiki/Minsk_II
@@ -82,7 +82,7 @@ Il est élu le 21 avril 2019, et quatre jours plus tard la Rada (assemblée) ado
 <a href="https://www.axl.cefan.ulaval.ca/europe/ukraine-loi-lng-2019OK.htm" 
    target="_blank" 
    rel="noopener noreferrer"
-   onclick="setTimeout(() => { if (!this.dataset.loaded) window.open('./archives/ref-3-loi-langues-2019.html', '_blank'); }, 4000);"
+   onclick="setTimeout(() => { if (!this.dataset.loaded) window.open('/archives/ref-3-loi-langues-2019.html', '_blank'); }, 4000);"
    onload="this.dataset.loaded = 'true';"
    style="display:inline;margin:0;padding:0;line-height:1.4;">
   https://www.axl.cefan.ulaval.ca/europe/ukraine-loi-lng-2019OK.htm
