@@ -1,5 +1,6 @@
-<script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js" async></script>
+---
 title: Températures de la Terre selon le CO₂
+permalink: /Temperatures-de-la-Terre-selon-le-CO2/
 ---
 
 # Températures de la Terre selon le CO₂
