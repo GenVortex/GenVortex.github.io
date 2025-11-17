@@ -375,6 +375,17 @@ $$
 
 
 
+<style>
+  body { max-width: 900px; margin: 40px auto; padding: 0 20px; font-family: "Segoe UI", Arial, sans-serif; line-height: 1.6; color: #333; }
+  h1, h2, h3 { color: #2c3e50; margin-top: 2em; }
+  table { border-collapse: collapse; width: 100%; margin: 20px 0; }
+  th, td { border: 1px solid #95a5a6; padding: 10px; text-align: center; }
+  th { background-color: #ecf0f1; }
+  pre, code { background: #f8f9fa; padding: 2px 6px; border-radius: 4px; }
+  img { max-width: 100%; display: block; margin: 20px auto; }
+  @media (prefers-color-scheme: dark) { body { background: #2c3e50; color: #ecf0f1; } a { color: #3498db; } table, th, td { border-color: #555; } th { background: #34495e; } pre, code { background: #34495e; } }
+</style>
+
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0.16.10/dist/katex.min.css">
 <script defer src="https://cdn.jsdelivr.net/npm/katex@0.16.10/dist/katex.min.js"></script>
 <script defer src="https://cdn.jsdelivr.net/npm/katex@0.16.10/dist/contrib/auto-render.min.js" onload="renderMathInElement(document.body);"></script>
