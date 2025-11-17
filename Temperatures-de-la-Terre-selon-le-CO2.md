@@ -1,8 +1,3 @@
----
-title: "Températures de la Terre selon le CO₂"
-layout: default
-permalink: /Temperatures-de-la-Terre-selon-le-CO2/
----
 # Températures de la Terre selon le CO₂
 
 ---
