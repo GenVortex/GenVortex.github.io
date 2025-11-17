@@ -383,9 +383,29 @@ $$
   th { background-color: #ecf0f1; }
   pre, code { background: #f8f9fa; padding: 2px 6px; border-radius: 4px; }
   img { max-width: 100%; display: block; margin: 20px auto; }
-  @media (prefers-color-scheme: dark) { body { background: #2c3e50; color: #ecf0f1; } a { color: #3498db; } table, th, td { border-color: #555; } th { background: #34495e; } pre, code { background: #34495e; } }
+  @media (prefers-color-scheme: dark) {
+    body { background: #2c3e50; color: #ecf0f1; }
+    a { color: #3498db; }
+    table, th, td { border-color: #555; }
+    th { background: #34495e; }
+    pre, code { background: #34495e; }
+  }
 </style>
 
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0.16.10/dist/katex.min.css">
 <script defer src="https://cdn.jsdelivr.net/npm/katex@0.16.10/dist/katex.min.js"></script>
-<script defer src="https://cdn.jsdelivr.net/npm/katex@0.16.10/dist/contrib/auto-render.min.js" onload="renderMathInElement(document.body);"></script>
+<script defer src="https://cdn.jsdelivr.net/npm/katex@0.16.10/dist/contrib/auto-render.min.js"></script>
+<script>
+  document.addEventListener("DOMContentLoaded", function() {
+    renderMathInElement(document.body, {
+      delimiters: [
+        {left: "$$", right: "$$", display: true},
+        {left: "$", right: "$", display: false},
+        {left: "\\[", right: "\\]", display: true},
+        {left: "\\(", right: "\\)", display: false}
+      ],
+      throwOnError: false,
+      strict: false
+    });
+  });
+</script>
