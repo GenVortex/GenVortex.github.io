@@ -2,7 +2,7 @@
 title: Températures de la Terre selon le CO₂
 ---
 
-# Températures de la Terre selon le CO₂
+# Températures de la Terre selon le CO₂ 2
 
 ---
 ## 1. Terre sans atmosphère
