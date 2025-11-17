@@ -1,5 +1,5 @@
 ---
-title: "Temperatures-de-la-Terre-selon-le-CO2"
+title: "Températures de la Terre selon le CO₂"
 layout: default
 permalink: /Temperatures-de-la-Terre-selon-le-CO2/
 ---
