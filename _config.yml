@@ -1,7 +1,7 @@
 # _config.yml
 
 # Paramètres de base
-title: "Mon Site MathJax"
+title: "GenVortex"
 description: "Un site Jekyll simple avec MathJax pour afficher des équations LaTeX."
 
 # Utilisation de Kramdown pour gérer Markdown (c'est le moteur par défaut)
