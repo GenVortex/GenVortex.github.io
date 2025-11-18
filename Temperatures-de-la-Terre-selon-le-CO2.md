@@ -328,9 +328,9 @@ $$
 
 [Insérez ici votre petit texte explicatif sur le GIEC et les forçages radiatifs.]
 
-src="https://www.ipcc.ch/report/ar6/wg1/downloads/report/IPCC_AR6_WGI_Full_Report.pdf#page=959" alt="GIEC AR6 Figure 7.8" style="max-width:100%; height:auto;">  
-  </a>
-</div>
+<a href="https://www.ipcc.ch/report/ar6/wg1/downloads/report/IPCC_AR6_WGI_FullReport.pdf#page=959" target="_blank">
+  <img src="https://www.ipcc.ch/report/ar6/wg1/downloads/report/IPCC_AR6_WGI_FullReport.png" alt="GIEC AR6 Figure 7.8" style="max-width:100%; height:auto;">
+</a>
 
 **Faisons les calculs en partant de la valeur de la température de 1880, et regardons ce que produisent ces forçages radiatifs donnés par le GIEC.**
 
@@ -371,4 +371,3 @@ src="https://www.ipcc.ch/report/ar6/wg1/downloads/report/IPCC_AR6_WGI_Full_Repor
 
 > **Source** : IPCC AR6 WG1, Figure 7.8, p. 959  
 > [Lien direct → Page 959](https://www.ipcc.ch/report/ar6/wg1/downloads/report/IPCC_AR6_WGI_Full_Report.pdf#page=959)
-
