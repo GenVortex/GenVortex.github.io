@@ -1,12 +1,13 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>{{ site.title }}{% if page.title %} | {{ page.title }}{% endif %}</title>
-  
-  <!-- KaTeX CSS – c’est tout ce qu’il faut ! -->
-  {% katex_css %}
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <title>{{ page.title }} | {{ site.title }}</title>
+  <meta name="description" content="{{ site.description }}">
 
-  <!-- Feeds & SEO (optionnel mais propre) -->
-  {% feed_meta %}
-  {% seo %}
+  <!-- Ajoute le CDN KaTeX -->
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0.15.0/dist/katex.min.css" integrity="sha384-oP9+mB7EojlX+Y20Mlk0qXh9TQ/xGcP0Syjw6Q8pU6G2e7E5ONlPTFw70+EDfHxd" crossorigin="anonymous">
+  <script src="https://cdn.jsdelivr.net/npm/katex@0.15.0/dist/katex.min.js" integrity="sha384-XQA27HpYOvh5Kw7If3c4j28d8NwRmzctfCBSSsc6ZZzF0dG1ykGj+VoXxtY4HY97" crossorigin="anonymous"></script>
+
+  <!-- Ajoute d'autres styles ou scripts si nécessaire -->
 </head>
