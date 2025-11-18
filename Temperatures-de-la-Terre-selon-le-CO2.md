@@ -4,18 +4,37 @@ layout: default
 permalink: /temperatures-de-la-terre-selon-le-co2/
 ---
 
-<!-- Chargement de MathJax -->
+---
+layout: default
+title: "Page avec équations"
+---
+
+<!-- ===================== -->
+<!--  Configuration MathJax -->
+<!-- ===================== -->
+
+<!-- 1) Configuration optimisée pour GitHub Pages -->
 <script>
-  window.MathJax = {
-    tex: {
-      inlineMath: [['$', '$'], ['\\(', '\\)']],
-      displayMath: [['$$','$$'], ['\\[','\\]']]
-    },
-    svg: { fontCache: 'global' }
-  };
+window.MathJax = {
+  tex: {
+    // Délimiteurs fiables pour GitHub Pages
+    inlineMath: [['$', '$']],
+    displayMath: [['$$', '$$']],
+
+    // Permet d'échapper proprement les backslashes
+    processEscapes: true,
+
+    // Support AMS (align, gather, etc.)
+    tags: "ams"
+  },
+  svg: {
+    fontCache: 'global'
+  }
+};
 </script>
 
-<script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-svg.js"></script>
+<!-- 2) Chargement de MathJax -->
+<script async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-svg.js"></script>
 
 
 ---
