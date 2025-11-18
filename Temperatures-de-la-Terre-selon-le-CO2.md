@@ -8,7 +8,7 @@ permalink: /temperatures-de-la-terre-selon-le-co2/
 
 ---
 
-# Températures de la Terre selon le CO₂
+# TTempératures de la Terre selon le CO₂
 
 ---
 ## 1. Terre sans atmosphère
