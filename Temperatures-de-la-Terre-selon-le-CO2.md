@@ -1,6 +1,8 @@
 ---
-title: Températures de la Terre selon le CO₂
-permalink: /Temperatures-de-la-Terre-selon-le-CO2/
+title: "Températures de la Terre selon le CO2"
+layout: default
+permalink: /temperatures-de-la-terre-selon-le-co2/
+mathjax: true
 ---
 
 # Températures de la Terre selon le CO₂
