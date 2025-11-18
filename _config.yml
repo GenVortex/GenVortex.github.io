@@ -1,4 +1,12 @@
 markdown: CommonMarkGhPages
 theme: jekyll-theme-primer
+
+commonmark:
+  extensions:
+    - table
+    - strikethrough
+    - autolink
+    - tasklist
+
 plugins:
   - jekyll-commonmark-ghpages
