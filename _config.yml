@@ -1,14 +1,40 @@
-# _config.yml
+# _config.yml – version qui marche vraiment en 2025
 
 # Paramètres de base
 title: "GenVortex"
 description: "Un site Jekyll simple avec MathJax pour afficher des équations LaTeX."
+url: ""                           # laisse vide si tu es en https://tonpseudo.github.io
+baseurl: ""                       # laisse vide si ton repo s'appelle tonpseudo.github.io
+                                  # mets /nom-du-repo si c'est un projet Pages classique
 
-# Utilisation de Kramdown pour gérer Markdown
+# Build settings
 markdown: kramdown
+# theme: minima                   # décommente si tu utilises un thème Jekyll
 
-# Configurations MathJax (il n'est plus nécessaire de l'activer ici si tu l'inclus déjà dans head.html)
+# Kramdown – on désactive complètement math_engine (c’est la clé !)
 kramdown:
-  input: GFM
-  math_engine: mathjax
+  input: GFM                      # GitHub Flavored Markdown
+  hard_wrap: false
+  math_engine: null               # ← LIGNE LA PLUS IMPORTANTE
+  # syntax_highlighter: rouge       # si tu utilises du code coloré
 
+# Exclusions classiques
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor
+
+# Plugins (GitHub Pages en supporte un certain nombre nativement)
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+  # - jekyll-sitemap              # décommente si tu veux
+
+# Defaults (facultatif mais propre)
+defaults:
+  -
+    scope:
+      path: ""
+    values:
+      layout: "default"
