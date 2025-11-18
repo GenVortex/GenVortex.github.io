@@ -6,9 +6,7 @@ permalink: /temperatures-de-la-terre-selon-le-co2/
 
 {% include mathjax.html %}
 
----
-
-# TTempératures de la Terre selon le CO₂
+# Températures de la Terre selon le CO₂
 
 ---
 ## 1. Terre sans atmosphère
