@@ -4,16 +4,11 @@
 title: "GenVortex"
 description: "Un site Jekyll simple avec MathJax pour afficher des équations LaTeX."
 
-# Utilisation de Kramdown pour gérer Markdown (c'est le moteur par défaut)
+# Utilisation de Kramdown pour gérer Markdown
 markdown: kramdown
 
-# Configuration pour MathJax
+# Configurations MathJax (il n'est plus nécessaire de l'activer ici si tu l'inclus déjà dans head.html)
 kramdown:
   input: GFM
   math_engine: mathjax
-  mathjax: 
-    # URL de la bibliothèque MathJax
-    src: "https://cdn.jsdelivr.net/npm/mathjax@2/MathJax.js?config=TeX-MML-AM_CHTML"
-    # Active la configuration MathJax pour TeX
-    enable_math: true
 
