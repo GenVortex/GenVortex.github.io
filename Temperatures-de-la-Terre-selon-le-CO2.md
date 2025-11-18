@@ -5,7 +5,6 @@ permalink: /temperatures-de-la-terre-selon-le-co2/
 ---
 
 {% include mathjax.html %}
-{% raw %}
 
 # Températures de la Terre selon le CO₂
 
@@ -375,4 +374,3 @@ $$
 > **Source** : IPCC AR6 WG1, Figure 7.8, p. 959  
 > [Lien direct → Page 959](https://www.ipcc.ch/report/ar6/wg1/downloads/report/IPCC_AR6_WGI_Full_Report.pdf#page=959)
 >
-> {% endraw %}
