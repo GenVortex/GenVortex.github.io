@@ -1,0 +1,14 @@
+# _config.yml
+
+# Paramètres de base
+title: "Mon Site MathJax"
+description: "Un site Jekyll simple avec MathJax pour afficher des équations LaTeX."
+
+# Utilisation de Kramdown pour gérer Markdown (c'est le moteur par défaut)
+markdown: kramdown
+
+# Activer MathJax pour le rendu des équations LaTeX
+kramdown:
+  input: GFM
+  math_engine: mathjax
+  mathjax: true
