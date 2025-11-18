@@ -7,8 +7,13 @@ description: "Un site Jekyll simple avec MathJax pour afficher des équations La
 # Utilisation de Kramdown pour gérer Markdown (c'est le moteur par défaut)
 markdown: kramdown
 
-# Activer MathJax pour le rendu des équations LaTeX
+# Configuration pour MathJax
 kramdown:
   input: GFM
   math_engine: mathjax
-  mathjax: true
+  mathjax: 
+    # URL de la bibliothèque MathJax
+    src: "https://cdn.jsdelivr.net/npm/mathjax@2/MathJax.js?config=TeX-MML-AM_CHTML"
+    # Active la configuration MathJax pour TeX
+    enable_math: true
+
