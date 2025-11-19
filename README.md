@@ -1,3 +1,7 @@
+---
+layout: none
+---
+
 ## Table des matières
 
 <p>
