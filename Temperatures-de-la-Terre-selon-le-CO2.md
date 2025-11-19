@@ -6,10 +6,6 @@ permalink: /temperatures-de-la-terre-selon-le-co2/
 
 {% include mathjax.html %}
 
-<div style="text-align:center; margin:40px 0 50px;">
-  <h1 style="color:#0066cc; font-size:2.8em; margin:0; font-weight:normal;">GenVortex</h1>
-</div>
-
 # Températures de la Terre selon le CO₂
 
 ---
