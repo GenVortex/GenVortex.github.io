@@ -3,6 +3,7 @@ title: "Chronologie des faits en Ukraine"
 layout: default
 permalink: /chronologie-des-faits-en-ukraine/
 ---
+
 On peut commencer l'histoire de l’Ukraine en 1991 lorsque le bloc soviétique explose et que des milliardaires, comme des requins après un naufrage, viennent s'emparer de toutes les richesses de l'état et que des mafias se mettent en place. Il n’y a plus de police, plus de professeurs, plus de retraites, plus rien, le chaos total.
 
 De ce chaos sort un état totalement corrompu, qui bascule selon les élections entre les pro-UE à l'OUEST, dont fait partie la capitale Kiev, et les pro-russes à l'EST.
@@ -30,16 +31,16 @@ Cela provoque de vives réactions en particulier des russophones et la création
 
 Poutine décide alors stratégiquement le 28 février 2014 d'intervenir pour sécuriser la république autonome de Crimée (qui a son propre parlement), et surtout la base navale du port de Sébastopol, qui a toujours été russe ! Un référendum est organisé, et le peuple décide quasiment à l’unanimité de faire partie de la fédération de Russie.
 
-<a href="https://GenVortex.github.io/images/referendum-2014-crimee.png" target="_blank" rel="noopener noreferrer">
-  <img src="https://GenVortex.github.io/images/referendum-2014-crimee.png" alt="Référendum 2014 Crimée" style="width:33%;height:auto;">
+<a href="https://genvortex.github.io/images/referendum-2014-crimee.png" target="_blank" rel="noopener noreferrer">
+  <img src="https://genvortex.github.io/images/referendum-2014-crimee.png" alt="Référendum 2014 Crimée" style="width:33%;height:auto;">
 </a>
 
 La Crimée n'a été liée à l'Ukraine que de 1954 à 2014, soit seulement 60 ans. Elle a donc quasiment toujours été russe, et est peuplée majoritairement de russes. On peut toujours discuter d'un référendum fait avec des hommes en armes, mais environ 60% de Russes qui ne veulent pas voir leur langue perdre le statut de langue officielle, ça suffit largement à obtenir une majorité. 
 
 Le 11 mai 2014 les républiques du Donbass, russophones et russophiles, créent leur propre référendum et suite aux résultats proclament leur autonomie. 
 
-<a href="https://GenVortex.github.io/images/referendum-2014-donbass.png" target="_blank" rel="noopener noreferrer">
-  <img src="https://GenVortex.github.io/images/referendum-2014-donbass.png" alt="Référendum 2014 Donbass" style="width:33%;height:auto;">
+<a href="https://genvortex.github.io/images/referendum-2014-donbass.png" target="_blank" rel="noopener noreferrer">
+  <img src="https://genvortex.github.io/images/referendum-2014-donbass.png" alt="Référendum 2014 Donbass" style="width:33%;height:auto;">
 </a>
 
 Kiev refuse les résultats de ces référendums et va bombarder le Donbass régulièrement, les russophones sont considérés comme des moins que rien. Voici le discours du nouveau président de l'Ukraine, Petro Porochenko, en poste depuis 2014 dès que l'intérim a été fini :
@@ -69,5 +70,3 @@ Moins d'un mois après le début de cette « Opération spéciale », un accord 
 Mais Boris Johnson intervient et fait sauter cet accord.
 
 La guerre continue donc depuis.
-
-<script defer src="/assets/js/force-newtab.js"></script>
