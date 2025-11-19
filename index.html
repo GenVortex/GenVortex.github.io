@@ -2,18 +2,57 @@
 <html lang="fr">
 <head>
   <meta charset="UTF-8">
-  <title>Table des matières</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Table des matières – Genvortex</title>
   <style>
     body {
-      font-family: sans-serif;
-      max-width: 900px;
-      margin: auto;
+      font-family: system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+      max-width: 800px;
+      margin: 40px auto;
       padding: 20px;
-      line-height: 1.6;
+      line-height: 1.7;
+      color: #333;
+      background: #fafafa;
+    }
+    h2 {
+      color: #2c3e50;
+      border-bottom: 2px solid #3498db;
+      padding-bottom: 10px;
+      margin-bottom: 30px;
+    }
+    ul {
+      list-style: none;
+      padding-left: 0;
+    }
+    li {
+      margin: 12px 0;
+      padding-left: 28px;
+      position: relative;
+      transition: color 0.2s;
+    }
+    li::before {
+      content: "→";
+      position: absolute;
+      left: 0;
+      color: #3498db;
+      font-weight: bold;
+      font-size: 1.1em;
+    }
+    li:hover {
+      color: #2980b9;
     }
     a {
+      color: inherit;
+      text-decoration: none;
       display: block;
-      margin: 6px 0;
+    }
+    a:hover {
+      text-decoration: underline;
+    }
+    @media (prefers-color-scheme: dark) {
+      body { background: #121212; color: #e0e0e0; }
+      h2 { color: #bbdefb; border-color: #3498db; }
+      li:hover { color: #90caf9; }
     }
   </style>
 </head>
@@ -21,17 +60,19 @@
 
 <h2>Table des matières</h2>
 
-<a href="https://genvortex.github.io/chronologie-des-faits-en-ukraine/" target="_blank">
-  chronologie-des-faits-en-ukraine
-</a>
+<ul>
+  <li><a href="https://genvortex.github.io/chronologie-des-faits-en-ukraine/" target="_blank" rel="noopener noreferrer">
+    Chronologie des faits en Ukraine
+  </a></li>
 
-<a href="https://genvortex.github.io/referendum-autodetermination-donbass-mai-2014/" target="_blank">
-  referendum-autodetermination-donbass-mai-2014
-</a>
+  <li><a href="https://genvortex.github.io/referendum-autodetermination-donbass-mai-2014/" target="_blank" rel="noopener noreferrer">
+    Référendum d’autodétermination du Donbass – mai 2014
+  </a></li>
 
-<a href="https://genvortex.github.io/temperatures-de-la-terre-selon-le-co2/" target="_blank">
-  temperatures-de-la-terre-selon-le-co2
-</a>
+  <li><a href="https://genvortex.github.io/temperatures-de-la-terre-selon-le-co2/" target="_blank" rel="noopener noreferrer">
+    Températures de la Terre selon le taux de CO₂
+  </a></li>
+</ul>
 
 </body>
 </html>
