@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8">
+  <title>{{ page.title }}</title>
+
+  <!-- MathJax -->
+  {% include mathjax.html %}
+
+  <style>
+    body { 
+      font-family: sans-serif; 
+      max-width: 900px; 
+      margin: auto; 
+      padding: 20px; 
+      line-height: 1.6;
+    }
+    code { 
+      background: #eee; 
+      padding: 2px 4px; 
+      border-radius: 3px;
+    }
+  </style>
+</head>
+
+<body>
+  {{ content }}
+</body>
+</html>
