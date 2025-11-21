@@ -1,12 +1,7 @@
-markdown: CommonMarkGhPages
 theme: jekyll-theme-primer
+markdown: kramdown
 
-commonmark:
-  extensions:
-    - table
-    - strikethrough
-    - autolink
-    - tasklist
-
-plugins:
-  - jekyll-commonmark-ghpages
+kramdown:
+  input: GFM
+  hard_wrap: false
+  parse_block_html: true
