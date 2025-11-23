@@ -1,27 +1,11 @@
 <!DOCTYPE html>
 <html lang="{{ page.lang | default: site.lang | default: 'fr' }}">
 <head>
-  {% include head.html %}
-
-  {%- comment -%}
-  Allow theme/plugins to inject their head content. Keep both names to cover variations.
-  {%- endcomment -%}
   {{ content_for_head }}
   {{ head }}
 </head>
 <body>
-  {% include header.html %}
-
-  <main role="main" class="container">
-    {{ content }}
-  </main>
-
-  {% include footer.html %}
-
-  {%- comment -%}
-  Allow theme/plugins to inject footer/scripts. Keeping multiple tokens increases compatibility
-  with how different themes (and GitHub Pages) inject assets.
-  {%- endcomment -%}
+  {{ content }}
   {{ content_for_footer }}
   {{ content_for_scripts }}
   {{ scripts }}
