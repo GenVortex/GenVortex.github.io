@@ -2,10 +2,14 @@
 <html lang="fr">
 <head>
   {% include head.html %}
+  {{ content_for_head }}
+  {{ head }}
 </head>
 <body>
   {% include header.html %}
   {{ content }}
   {% include footer.html %}
+  {{ content_for_footer }}
+  {{ content_for_scripts }}
 </body>
 </html>
