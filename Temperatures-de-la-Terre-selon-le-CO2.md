@@ -1,6 +1,6 @@
 ---
 title: "Températures de la Terre selon le CO₂"
-layout: default
+layout: math
 permalink: /temperatures-de-la-terre-selon-le-co2/
 ---
 
