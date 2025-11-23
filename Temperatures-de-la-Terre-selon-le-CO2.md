@@ -9,9 +9,6 @@ permalink: /temperatures-de-la-terre-selon-le-co2/
 ---
 ## 1. Terre sans atmosphère
 
-<br><a href="https://www.bbc.com/news/world-europe-26079957" target="_blank" rel="noopener noreferrer">https://www.bbc.com/news/world-europe-26079957</a><br><a href="/archives/ref-5-nuland-maidan.html" target="_blank" rel="noopener noreferrer" style="color:#0066cc;font-size:0.95em;text-decoration:underline;">(copie locale traduite ici)</a>
-
-
 *Cas idéal sans aucun gaz à effet de serre. La Terre reçoit uniquement le rayonnement solaire et réémet dans l’infrarouge. La température est déterminée par l’équilibre entre énergie absorbée et énergie rayonnée.*
 
 ### Modèle physique
@@ -375,4 +372,3 @@ $$
 > **Source** : IPCC AR6 WG1, Figure 7.8, p. 959  
 > [Lien direct → Page 959](https://www.ipcc.ch/report/ar6/wg1/downloads/report/IPCC_AR6_WGI_Full_Report.pdf#page=959)
 >
-<br><a href="https://www.bbc.com/news/world-europe-26079957" target="_blank" rel="noopener noreferrer">https://www.bbc.com/news/world-europe-26079957</a><br><a href="/archives/ref-5-nuland-maidan.html" target="_blank" rel="noopener noreferrer" style="color:#0066cc;font-size:0.95em;text-decoration:underline;">(copie locale traduite ici)</a>
