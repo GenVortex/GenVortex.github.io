@@ -5,7 +5,7 @@ permalink: /archives/ref-6-nuland-transcription/
 ---
 
 # Transcription de l’appel Nuland – Pyatt (janvier 2014)
-Traduction française par Grok de l'extrait principal diffusé
+Traduction française de l'extrait principal diffusé
 
 **Date de l’enregistrement** : fin janvier 2014 (probablement 27 ou 28 janvier)  
 **Publication** : 6 février 2014 sur YouTube  
