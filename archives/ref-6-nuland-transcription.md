@@ -9,8 +9,8 @@ Traduction française de l'extrait principal diffusé
 
 **Date de l’enregistrement** : fin janvier 2014 (probablement 27 ou 28 janvier)  
 **Publication** : 6 février 2014 sur YouTube  
-[YouTube ↗](https://youtu.be/LUCCR4jAS3Y?si=4W6s56HQu0fO5HHf)  
-[copie locale intégralement traduite (mp4) ↗](/archives/ref-7-nuland-telephone-maidan.mp4)
+<a href="https://www.youtube.com/watch?v=LUCCR4jAS3Y" target="_blank" rel="noopener noreferrer">https://youtu.be/LUCCR4jAS3Y?si=4W6s56HQu0fO5HHf</a><br>
+<a href="/archives/ref-7-nuland-telephone-maidan.mp4" target="_blank" rel="noopener noreferrer" style="color:#0066cc;text-decoration:underline;">(copie locale intégralement traduite ici)</a>
 
 **Interlocuteurs** :  
 - Victoria Nuland (secrétaire d’État adjointe pour l’Europe)  
