@@ -9,7 +9,7 @@ De ce chaos sort un état totalement corrompu, qui bascule selon les élections 
 
 En novembre 2013 le président de la Commission européenne, qui était à l'époque José Manuel Barroso a dit au président ukrainien Viktor Yanoukovytch qu'il ne pouvait pas avoir A LA FOIS des relations fortes avec la Russie, et profiter des accords de l'UE. Il devait choisir, prendre une décision. Etant pro-russe il a donc choisi la Russie contre l'UE. La population de Kiev, qui est fortement pro-UE est donc sortie dans les rues et sur la place Maïdan pour montrer son mécontentement.
 
-Alors que les manifestations durent la secrétaire d'état américaine Victoria Nuland discute déjà du choix des futurs ministres ukrainiens (!!!) : "Bien. Je ne pense pas que Klitsch devrait entrer au gouvernement. Je ne pense pas que ce soit nécessaire, je ne pense pas que ce soit une bonne idée." 
+Alors que les manifestations durent, la secrétaire d'état américaine Victoria Nuland discute déjà du choix des futurs ministres ukrainiens (!!!) : "Bien. Je ne pense pas que Klitsch devrait entrer au gouvernement. Je ne pense pas que ce soit nécessaire, je ne pense pas que ce soit une bonne idée." 
 <br><a href="https://www.reuters.com/article/world/leaked-audio-reveals-embarrassing-us-exchange-on-ukraine-eu-idUSBREA1601K/" target="_blank" rel="noopener noreferrer">https://www.reuters.com/article/world/leaked-audio-reveals-embarrassing-us-exchange-on-ukraine-eu-idUSBREA1601K/</a><br><a href="/archives/ref-6-nuland-transcription" target="_blank" rel="noopener noreferrer" style="color:#0066cc;font-size:0.95em;text-decoration:underline;">(transcription intégrale traduite ici)</a>
 
 Les 21 et 22 février 2014 ce mouvement se rassemble encore sur la place Maïdan à Kiev.
