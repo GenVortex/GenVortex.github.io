@@ -1,3 +1,9 @@
+---
+title: "Transcription intégrale de l’appel Nuland – Pyatt"
+layout: math
+permalink: /ref-6-nuland-transcription/
+---
+
 # Transcription intégrale de l’appel Nuland – Pyatt (janvier 2014)  
 Traduction française fidèle et complète  
 
