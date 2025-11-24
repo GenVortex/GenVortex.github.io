@@ -52,3 +52,4 @@ Traduction française fidèle et complète
 - « Que l’UE aille se faire foutre. » (Fuck the EU)
 
 **Sources principales** : BBC News, Reuters, Le Monde, France 24, Département d’État US (authenticité jamais contestée).
+<br><a href="https://youtu.be/LUCCR4jAS3Y?si=4W6s56HQu0fO5HHf" target="_blank" rel="noopener noreferrer">https://youtu.be/LUCCR4jAS3Y?si=4W6s56HQu0fO5HHf</a>
