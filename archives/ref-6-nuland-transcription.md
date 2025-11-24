@@ -9,6 +9,8 @@ Traduction française fidèle et complète
 
 **Date de l’enregistrement** : fin janvier 2014 (probablement 27 ou 28 janvier)  
 **Publication** : 6 février 2014 sur YouTube  
+<br><a href="https://www.youtube.com/watch?v=LUCCR4jAS3Y" target="_blank" rel="noopener noreferrer">https://youtu.be/LUCCR4jAS3Y?si=4W6s56HQu0fO5HHf</a><br><a href="/archives/ref-4-porochenko-discours.mp4" target="_blank" rel="noopener noreferrer" style="color:#0066cc;font-size:0.95em;text-decoration:underline;">(copie locale ici)</a>
+
 **Interlocuteurs** :  
 - Victoria Nuland (secrétaire d’État adjointe pour l’Europe)  
 - Geoffrey Pyatt (ambassadeur des États-Unis en Ukraine)
@@ -52,4 +54,3 @@ Traduction française fidèle et complète
 - « Que l’UE aille se faire foutre. » (Fuck the EU)
 
 **Sources principales** : BBC News, Reuters, Le Monde, France 24, Département d’État US (authenticité jamais contestée).
-<br><a href="https://youtu.be/LUCCR4jAS3Y?si=4W6s56HQu0fO5HHf" target="_blank" rel="noopener noreferrer">https://youtu.be/LUCCR4jAS3Y?si=4W6s56HQu0fO5HHf</a>
