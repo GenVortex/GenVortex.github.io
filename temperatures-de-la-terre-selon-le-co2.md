@@ -15,7 +15,7 @@ permalink: /temperatures-de-la-terre-selon-le-co2/
 
 <hr class="blue-hr">
 
-## 1. Terre sans atmosphère
+## 1. Terre 8 sans atmosphère
 
 *Cas idéal sans aucun gaz à effet de serre. La Terre reçoit uniquement le rayonnement solaire et réémet dans l’infrarouge. La température est déterminée par l’équilibre entre énergie absorbée et énergie réémise.*
 
