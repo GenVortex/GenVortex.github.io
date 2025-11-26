@@ -26,10 +26,9 @@ permalink: /temperatures-de-la-terre-selon-le-co2/
 
 *Cas idéal sans aucun gaz à effet de serre. La Terre reçoit uniquement le rayonnement solaire et réémet dans l’infrarouge. La température est déterminée par l’équilibre entre énergie absorbée et énergie réémise.*
 
-<h3 class="blue-section">Modèle physique</h3>
+Modèle physique
 - **Hypothèse** : Corps noir parfait (émissivité = 1)
 - **Atmosphère** : Aucune (vide)
-- **Calcul** : Bilan radiatif global
 
 <div class="indent-chap">
 <h3 class="blue-section">1. Flux solaire absorbé à la surface ($S_{\text{abs}}$)</h3>
@@ -72,13 +71,13 @@ Température = -18.3 °C
 
 *Atmosphère réaliste avec H₂O, O₃, CH₄, N₂O, mais CO₂ = 0 ppm.*
 
-<h3 class="blue-section">Modèle physique</h3>
+Modèle physique
 - **Calcul** : MODTRAN 3 version 1.3,
 - **Profil** : 1976 U.S. Standard Atmosphere, no clouds ou rain - Altitude 0 km
 - **Gaz présents** : Tous gaz par défaut sauf CO₂ = 0 ppm
 
 <div class="indent-chap">
-<h3 class="blue-section">1. Flux IR descendant à la surface ($F_{\text{LW}\downarrow}$)</h3>
+<h3 class="blue-section">1. Flux Infra Rouge (IR) descendant à la surface ($F_{\text{LW}\downarrow}$)</h3>
 $$
 F_{\text{LW}\downarrow} = I_{\text{A}}^{\text{down}} = \mathbf{237.886\ \text{W/m}^2}
 $$
@@ -127,7 +126,7 @@ Température = 5.3 °C
 
 *Atmosphère réaliste avec H₂O, O₃, CH₄, N₂O, mais CO₂ = 280 ppm.*
 
-<h3 class="blue-section">Modèle physique</h3>
+Modèle physique
 - **Calcul** : MODTRAN 3 version 1.3,
 - **Profil** : 1976 U.S. Standard Atmosphere, no clouds ou rain - Altitude 0 km
 - **Gaz présents** : Tous gaz par défaut sauf CO₂ = 280 ppm
@@ -181,7 +180,7 @@ Température = 15.0 °C
 
 *Atmosphère réaliste avec H₂O, O₃, CH₄, N₂O, mais CO₂ = 420 ppm.*
 
-<h3 class="blue-section">Modèle physique</h3>
+Modèle physique
 - **Calcul** : MODTRAN 3 version 1.3,
 - **Profil** : 1976 U.S. Standard Atmosphere, no clouds ou rain - Altitude 0 km
 - **Gaz présents** : Tous gaz par défaut sauf CO₂ = 420 ppm
@@ -235,7 +234,7 @@ Température = 15.34 °C
 
 *Atmosphère réaliste avec H₂O, O₃, CH₄, N₂O, mais CO₂ = 560 ppm.*
 
-<h3 class="blue-section">Modèle physique</h3>
+Modèle physique
 - **Calcul** : MODTRAN 3 version 1.3,
 - **Profil** : 1976 U.S. Standard Atmosphere, no clouds ou rain - Altitude 0 km
 - **Gaz présents** : Tous gaz par défaut sauf CO₂ = 560 ppm
@@ -313,7 +312,7 @@ Température = 15.55 °C
 ## 6. Calcul GIEC : 420 ppm et 560 ppm à partir de 1880
 <div class="indent-chap">
 
-<h3 class="blue-section">Modèle physique</h3>
+Modèle physique
 - **Température de référence (1880)** : **15.0 °C** = 288.15 K  
 - **Forçage radiatif total (1750 → 2019)** : **2.72 W/m²** (GIEC AR6, Figure 7.8, p. 959)  
 - **Sensibilité climatique (λ)** : ΔT = λ × ΔF  
