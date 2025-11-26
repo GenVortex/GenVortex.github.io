@@ -7,8 +7,8 @@ permalink: /temperatures-de-la-terre-selon-le-co2/
 <style>
 .indent-chap { margin-left: 2em; }
 .indent-result { margin-left: 2em; text-align: left; font-weight: bold; display: inline-block; border: 1px solid #eee; padding: 1px 6px; }
-.blue-section { color: #1565c0; /* Bleu profond */ }
-.blue-hr { border: none; border-top: 4px solid #1565c0; margin: 2em 0; }
+.blue-section { color: #1565c0; }
+.blue-hr { border: none; border-top: 4px solid #003366; margin: 2em 0; }
 </style>
 
 # Températures de la Terre selon le CO₂
@@ -67,7 +67,7 @@ Température = -18.3 °C
 
 <h3 class="blue-section">Modèle physique</h3>
 - **Calcul** : MODTRAN 3 version 1.3,
-- **Profil** : 1976 U.S. Standard Atmosphere, no clouds or rain - Altitude 0 km
+- **Profil** : 1976 U.S. Standard Atmosphere, no clouds ou rain - Altitude 0 km
 - **Gaz présents** : Tous gaz par défaut sauf CO₂ = 0 ppm
 
 <div class="indent-chap">
@@ -122,7 +122,7 @@ Température = 5.3 °C
 
 <h3 class="blue-section">Modèle physique</h3>
 - **Calcul** : MODTRAN 3 version 1.3,
-- **Profil** : 1976 U.S. Standard Atmosphere, no clouds or rain - Altitude 0 km
+- **Profil** : 1976 U.S. Standard Atmosphere, no clouds ou rain - Altitude 0 km
 - **Gaz présents** : Tous gaz par défaut sauf CO₂ = 280 ppm
 
 <div class="indent-chap">
@@ -176,7 +176,7 @@ Température = 15.0 °C
 
 <h3 class="blue-section">Modèle physique</h3>
 - **Calcul** : MODTRAN 3 version 1.3,
-- **Profil** : 1976 U.S. Standard Atmosphere, no clouds or rain - Altitude 0 km
+- **Profil** : 1976 U.S. Standard Atmosphere, no clouds ou rain - Altitude 0 km
 - **Gaz présents** : Tous gaz par défaut sauf CO₂ = 420 ppm
 
 <div class="indent-chap">
@@ -230,7 +230,7 @@ Température = 15.34 °C
 
 <h3 class="blue-section">Modèle physique</h3>
 - **Calcul** : MODTRAN 3 version 1.3,
-- **Profil** : 1976 U.S. Standard Atmosphere, no clouds or rain - Altitude 0 km
+- **Profil** : 1976 U.S. Standard Atmosphere, no clouds ou rain - Altitude 0 km
 - **Gaz présents** : Tous gaz par défaut sauf CO₂ = 560 ppm
 
 <div class="indent-chap">
