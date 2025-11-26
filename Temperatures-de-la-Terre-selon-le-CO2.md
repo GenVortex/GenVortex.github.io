@@ -8,9 +8,18 @@ permalink: /temperatures-de-la-terre-selon-le-co2/
 .indent-chap {
   margin-left: 2em;
 }
+.indent-result {
+  margin-left: 2em;
+  text-align: left;
+  font-weight: bold;
+  border: 1px solid #eee;
+  display: inline-block;
+  padding: 1px 6px;
+  background: #f8f8f8;
+}
 </style>
 
-# Températures de la Terre selon le CO₂
+# Températures de la Terre selon le CO₂ 2
 <div class="indent-chap">
 
 ---
@@ -51,11 +60,9 @@ $$
 
 **Résultat** :  
 
-<p style="text-align:center;">
-  <span style="display:inline-block; border:1px solid white; padding:1px 6px; font-weight:bold;">
-    Température = -18.3 °C
-  </span>
-</p>
+<div class="indent-result">
+Température = -18.3 °C
+</div>
 
 ### Sources
 - Kopp & Lean, 2011
@@ -109,11 +116,9 @@ $$
 
 **Résultat** :  
 
-<p style="text-align:center;">
-  <span style="display:inline-block; border:1px solid white; padding:1px 6px; font-weight:bold;">
-    Température = 5.3 °C
-  </span>
-</p>
+<div class="indent-result">
+Température = 5.3 °C
+</div>
 
 *(Effet de serre partiel dû à H₂O, O₃, CH₄, N₂O — CO₂ absent)*
 
@@ -172,11 +177,9 @@ $$
 
 **Résultat** :  
 
-<p style="text-align:center;">
-  <span style="display:inline-block; border:1px solid white; padding:1px 6px; font-weight:bold;">
-    Température = 15.0 °C
-  </span>
-</p>
+<div class="indent-result">
+Température = 15.0 °C
+</div>
 
 *(Effet de serre partiel dû à H₂O, O₃, CH₄, N₂O — CO₂ = 280 ppm)*
 
@@ -235,11 +238,9 @@ $$
 
 **Résultat** :  
 
-<p style="text-align:center;">
-  <span style="display:inline-block; border:1px solid white; padding:1px 6px; font-weight:bold;">
-    Température = 15.34 °C
-  </span>
-</p>
+<div class="indent-result">
+Température = 15.34 °C
+</div>
 
 *(Effet de serre partiel dû à H₂O, O₃, CH₄, N₂O — CO₂ = 420 ppm)*
 
@@ -298,11 +299,9 @@ $$
 
 **Résultat** :  
 
-<p style="text-align:center;">
-  <span style="display:inline-block; border:1px solid white; padding:1px 6px; font-weight:bold;">
-    Température = 15.55 °C
-  </span>
-</p>
+<div class="indent-result">
+Température = 15.55 °C
+</div>
 
 *(Effet de serre partiel dû à H₂O, O₃, CH₄, N₂O — CO₂ = 560 ppm)*
 
