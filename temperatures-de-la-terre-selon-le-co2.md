@@ -8,7 +8,7 @@ permalink: /temperatures-de-la-terre-selon-le-co2/
 .indent-chap { margin-left: 2em; }
 .indent-result { margin-left: 2em; text-align: left; font-weight: bold; display: inline-block; border: 1px solid #eee; padding: 1px 6px; }
 .blue-section { color: #1565c0; }
-.blue-hr { border: none; border-top: 4px solid #003366; margin: 2em 0; }
+.blue-hr { border: none; border-top: 8px solid #003366; margin: 2em 0; }
 </style>
 
 # Températures de la Terre selon le CO₂
