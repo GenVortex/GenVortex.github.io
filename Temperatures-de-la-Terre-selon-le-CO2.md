@@ -19,7 +19,7 @@ permalink: /temperatures-de-la-terre-selon-le-co2/
 }
 </style>
 
-# Températures de la Terre selon le CO₂ 2
+# Températures 2 de la Terre selon le CO₂
 <div class="indent-chap">
 
 ---
