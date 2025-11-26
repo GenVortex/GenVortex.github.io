@@ -19,11 +19,11 @@ permalink: /temperatures-de-la-terre-selon-le-co2/
 }
 </style>
 
-# Températures 2 de la Terre selon le CO₂
+# Températures de la Terre selon le CO₂
 <div class="indent-chap">
 
 ---
-## 1. Terre sans atmosphère
+## 1. Terre sans atmosphère 2
 
 *Cas idéal sans aucun gaz à effet de serre. La Terre reçoit uniquement le rayonnement solaire et réémet dans l’infrarouge. La température est déterminée par l’équilibre entre énergie abs[...]
 
