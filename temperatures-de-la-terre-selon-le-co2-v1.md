@@ -1,7 +1,7 @@
 ---
 title: "Températures de la Terre selon le CO₂"
 layout: math
-permalink: /temperatures-de-la-terre-selon-le-co2/
+permalink: /temperatures-de-la-terre-selon-le-co2-v1/
 ---
 
 {% include mathjax.html %}
