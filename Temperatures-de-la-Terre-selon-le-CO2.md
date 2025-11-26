@@ -2,9 +2,13 @@
 title: "Températures de la Terre selon le CO₂"
 layout: math
 permalink: /temperatures-de-la-terre-selon-le-co2/
-styles: |
-  .indent-chap { margin-left: 2em; }
 ---
+
+<style>
+.indent-chap {
+  margin-left: 2em;
+}
+</style>
 
 # Températures de la Terre selon le CO₂
 <div class="indent-chap">
@@ -12,7 +16,7 @@ styles: |
 ---
 ## 1. Terre sans atmosphère
 
-*Cas idéal sans aucun gaz à effet de serre. La Terre reçoit uniquement le rayonnement solaire et réémet dans l’infrarouge. La température est déterminée par l’équilibre entre énergie absorbée et énergie réémise.*
+*Cas idéal sans aucun gaz à effet de serre. La Terre reçoit uniquement le rayonnement solaire et réémet dans l’infrarouge. La température est déterminée par l’équilibre entre énergie abs[...]
 
 ### Modèle physique
 - **Hypothèse** : Corps noir parfait (émissivité = 1)
