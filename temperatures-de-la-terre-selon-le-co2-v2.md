@@ -2,17 +2,14 @@
 title: "Températures de la Terre selon le CO₂"
 layout: math
 permalink: /temperatures-de-la-terre-selon-le-co2/
-styles: |
-  .indent-chap { margin-left: 2em; }
 ---
 
 # Températures de la Terre selon le CO₂
-<div class="indent-chap">
 
 ---
 ## 1. Terre sans atmosphère
 
-*Cas idéal sans aucun gaz à effet de serre. La Terre reçoit uniquement le rayonnement solaire et réémet dans l’infrarouge. La température est déterminée par l’équilibre entre énergie absorbée et énergie réémise.*
+*Cas idéal sans aucun gaz à effet de serre. La Terre reçoit uniquement le rayonnement solaire et réémet dans l’infrarouge. La température est déterminée par l’équilibre entre énergie absorbée et énergie rayonnée.*
 
 ### Modèle physique
 - **Hypothèse** : Corps noir parfait (émissivité = 1)
@@ -67,6 +64,7 @@ $$
 - **Calcul** : MODTRAN 3 version 1.3,
 - **Profil** : 1976 U.S. Standard Atmosphere, no clouds or rain - Altitude 0 km
 - **Gaz présents** : Tous gaz par défaut sauf CO₂ = 0 ppm
+
 
 ### 1. Flux IR descendant à la surface ($F_{\text{LW}\downarrow}$)
 $$
@@ -131,6 +129,7 @@ $$
 - **Profil** : 1976 U.S. Standard Atmosphere, no clouds or rain - Altitude 0 km
 - **Gaz présents** : Tous gaz par défaut sauf CO₂ = 280 ppm
 
+
 ### 1. Flux IR descendant à la surface ($F_{\text{LW}\downarrow}$)
 $$
 F_{\text{LW}\downarrow} = I_{\text{A}}^{\text{down}} = \mathbf{267.183\ \text{W/m}^2}
@@ -194,6 +193,7 @@ $$
 - **Profil** : 1976 U.S. Standard Atmosphere, no clouds or rain - Altitude 0 km
 - **Gaz présents** : Tous gaz par défaut sauf CO₂ = 420 ppm
 
+
 ### 1. Flux IR descendant à la surface ($F_{\text{LW}\downarrow}$)
 $$
 F_{\text{LW}\downarrow} = I_{\text{A}}^{\text{down}} = \mathbf{269.255\ \text{W/m}^2}
@@ -256,6 +256,7 @@ $$
 - **Calcul** : MODTRAN 3 version 1.3,
 - **Profil** : 1976 U.S. Standard Atmosphere, no clouds or rain - Altitude 0 km
 - **Gaz présents** : Tous gaz par défaut sauf CO₂ = 560 ppm
+
 
 ### 1. Flux IR descendant à la surface ($F_{\text{LW}\downarrow}$)
 $$
@@ -371,5 +372,3 @@ $$
 > **Source** : IPCC AR6 WG1, Figure 7.8, p. 959  
 > [Lien direct → Page 959](https://www.ipcc.ch/report/ar6/wg1/downloads/report/IPCC_AR6_WGI_Full_Report.pdf#page=959)
 >
-
-</div>
