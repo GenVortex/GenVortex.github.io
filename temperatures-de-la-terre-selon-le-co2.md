@@ -14,7 +14,6 @@ permalink: /temperatures-de-la-terre-selon-le-co2/
 ---
 
 ## 1. Terre sans atmosphère
-<div class="indent-chap">
 
 *Cas idéal sans aucun gaz à effet de serre. La Terre reçoit uniquement le rayonnement solaire et réémet dans l’infrarouge. La température est déterminée par l’équilibre entre énergie absorbée et énergie réémise.*
 
@@ -23,6 +22,7 @@ permalink: /temperatures-de-la-terre-selon-le-co2/
 - **Atmosphère** : Aucune (vide)
 - **Calcul** : Bilan radiatif global
 
+<div class="indent-chap">
 ### 1. Flux solaire absorbé à la surface ($S_{\text{abs}}$)
 $$
 S_{\text{abs}} = \frac{S_0}{4} \times (1 - \alpha)
@@ -62,7 +62,6 @@ Température = -18.3 °C
 ---
 
 ## 2. Terre avec atmosphère sans CO₂
-<div class="indent-chap">
 
 *Atmosphère réaliste avec H₂O, O₃, CH₄, N₂O, mais CO₂ = 0 ppm.*
 
@@ -71,6 +70,7 @@ Température = -18.3 °C
 - **Profil** : 1976 U.S. Standard Atmosphere, no clouds or rain - Altitude 0 km
 - **Gaz présents** : Tous gaz par défaut sauf CO₂ = 0 ppm
 
+<div class="indent-chap">
 ### 1. Flux IR descendant à la surface ($F_{\text{LW}\downarrow}$)
 $$
 F_{\text{LW}\downarrow} = I_{\text{A}}^{\text{down}} = \mathbf{237.886\ \text{W/m}^2}
@@ -124,7 +124,6 @@ Température = 5.3 °C
 ---
 
 ## 3. CO₂ à 280 ppm (préindustriel — 1880)
-<div class="indent-chap">
 
 *Atmosphère réaliste avec H₂O, O₃, CH₄, N₂O, mais CO₂ = 280 ppm.*
 
@@ -132,7 +131,8 @@ Température = 5.3 °C
 - **Calcul** : MODTRAN 3 version 1.3,
 - **Profil** : 1976 U.S. Standard Atmosphere, no clouds or rain - Altitude 0 km
 - **Gaz présents** : Tous gaz par défaut sauf CO₂ = 280 ppm
-
+  
+<div class="indent-chap">
 ### 1. Flux IR descendant à la surface ($F_{\text{LW}\downarrow}$)
 $$
 F_{\text{LW}\downarrow} = I_{\text{A}}^{\text{down}} = \mathbf{267.183\ \text{W/m}^2}
@@ -169,7 +169,7 @@ T_s(^\circ\text{C}) = 288.15 - 273.15 = \mathbf{15.0^\circ\text{C}}
 $$
 
 **Résultat** :  
-<div class="indent-result">
+
 Température = 15.0 °C
 </div>
 
@@ -177,6 +177,7 @@ Température = 15.0 °C
 
 ---
 
+<div class="indent-result">
 ### Sources
 - **MODTRAN 3 version 1.3**
   [http://climatemodels.uchicago.edu/modtran/](http://climatemodels.uchicago.edu/modtran/)
@@ -186,7 +187,6 @@ Température = 15.0 °C
 ---
 
 ## 4. CO₂ à 420 ppm (2024)
-<div class="indent-chap">
 
 *Atmosphère réaliste avec H₂O, O₃, CH₄, N₂O, mais CO₂ = 420 ppm.*
 
@@ -195,6 +195,7 @@ Température = 15.0 °C
 - **Profil** : 1976 U.S. Standard Atmosphere, no clouds or rain - Altitude 0 km
 - **Gaz présents** : Tous gaz par défaut sauf CO₂ = 420 ppm
 
+<div class="indent-chap">
 ### 1. Flux IR descendant à la surface ($F_{\text{LW}\downarrow}$)
 $$
 F_{\text{LW}\downarrow} = I_{\text{A}}^{\text{down}} = \mathbf{269.255\ \text{W/m}^2}
@@ -248,7 +249,6 @@ Température = 15.34 °C
 ---
 
 ## 5. CO₂ à 560 ppm (doublement de 1880)
-<div class="indent-chap">
 
 *Atmosphère réaliste avec H₂O, O₃, CH₄, N₂O, mais CO₂ = 560 ppm.*
 
@@ -257,6 +257,7 @@ Température = 15.34 °C
 - **Profil** : 1976 U.S. Standard Atmosphere, no clouds or rain - Altitude 0 km
 - **Gaz présents** : Tous gaz par défaut sauf CO₂ = 560 ppm
 
+<div class="indent-chap">
 ### 1. Flux IR descendant à la surface ($F_{\text{LW}\downarrow}$)
 $$
 F_{\text{LW}\downarrow} = I_{\text{A}}^{\text{down}} = \mathbf{270.731\ \text{W/m}^2}
@@ -310,7 +311,6 @@ Température = 15.55 °C
 ---
 
 ## Comparaison des températures selon le CO₂ (MODTRAN)
-<div class="indent-chap">
 
 | Cas | CO₂ (ppm) | Température (°C) |
 |-----|-----------|------------------|
