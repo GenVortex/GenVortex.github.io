@@ -18,7 +18,7 @@ permalink: /temperatures-de-la-terre-selon-le-co2/
 }
 </style>
 
-# Températures 9 de la Terre selon le CO₂
+# Températures de la Terre selon le CO₂
 
 <hr class="blue-hr">
 
@@ -29,7 +29,6 @@ permalink: /temperatures-de-la-terre-selon-le-co2/
 <h3 class="blue-section">Modèle physique</h3>
 - **Hypothèse** : Corps noir parfait (émissivité = 1)
 - **Atmosphère** : Aucune (vide)
-- **Calcul** : Bilan radiatif global
 
 <div class="indent-chap">
 <h3 class="blue-section">1. Flux solaire absorbé à la surface ($S_{\text{abs}}$)</h3>
