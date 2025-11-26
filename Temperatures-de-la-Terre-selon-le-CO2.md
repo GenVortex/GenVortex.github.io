@@ -23,7 +23,7 @@ permalink: /temperatures-de-la-terre-selon-le-co2/
 <div class="indent-chap">
 
 ---
-## 1. Terre 2 sans atmosphère
+## 1. Terre 3 sans atmosphère
 
 *Cas idéal sans aucun gaz à effet de serre. La Terre reçoit uniquement le rayonnement solaire et réémet dans l’infrarouge. La température est déterminée par l’équilibre entre énergie abs[...]
 
