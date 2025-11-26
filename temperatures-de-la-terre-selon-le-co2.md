@@ -5,27 +5,18 @@ permalink: /temperatures-de-la-terre-selon-le-co2/
 ---
 
 <style>
-.indent-chap {
-  margin-left: 2em;
-}
-.indent-result {
-  margin-left: 2em;
-  text-align: left;
-  font-weight: bold;
-  border: 1px solid #eee;
-  display: inline-block;
-  padding: 1px 6px;
-  background: #f8f8f8;
-}
+.indent-chap { margin-left: 2em; }
+.indent-result { margin-left: 2em; text-align: left; font-weight: bold; display: inline-block; border: 1px solid #eee; padding: 1px 6px;}
 </style>
 
 # Températures de la Terre selon le CO₂
-<div class="indent-chap">
 
 ---
-## 1. Terre 3 sans atmosphère
 
-*Cas idéal sans aucun gaz à effet de serre. La Terre reçoit uniquement le rayonnement solaire et réémet dans l’infrarouge. La température est déterminée par l’équilibre entre énergie abs[...]
+## 1. Terre sans atmosphère
+<div class="indent-chap">
+
+*Cas idéal sans aucun gaz à effet de serre. La Terre reçoit uniquement le rayonnement solaire et réémet dans l’infrarouge. La température est déterminée par l’équilibre entre énergie absorbée et énergie réémise.*
 
 ### Modèle physique
 - **Hypothèse** : Corps noir parfait (émissivité = 1)
@@ -59,7 +50,6 @@ T_e(^\circ\text{C}) = 254.9 - 273.15 = \mathbf{-18.3^\circ\text{C}}
 $$
 
 **Résultat** :  
-
 <div class="indent-result">
 Température = -18.3 °C
 </div>
@@ -68,9 +58,11 @@ Température = -18.3 °C
 - Kopp & Lean, 2011
 - Loeb et al., 2018 (CERES)
 
+</div>
 ---
 
 ## 2. Terre avec atmosphère sans CO₂
+<div class="indent-chap">
 
 *Atmosphère réaliste avec H₂O, O₃, CH₄, N₂O, mais CO₂ = 0 ppm.*
 
@@ -115,7 +107,6 @@ T_s(^\circ\text{C}) = 278.42 - 273.15 = \mathbf{5.3^\circ\text{C}}
 $$
 
 **Résultat** :  
-
 <div class="indent-result">
 Température = 5.3 °C
 </div>
@@ -129,9 +120,11 @@ Température = 5.3 °C
   [http://climatemodels.uchicago.edu/modtran/](http://climatemodels.uchicago.edu/modtran/)
 - **Trenberth et al., 2009** (*BAMS*, doi:10.1175/2008BAMS2634.1)
 
+</div>
 ---
 
 ## 3. CO₂ à 280 ppm (préindustriel — 1880)
+<div class="indent-chap">
 
 *Atmosphère réaliste avec H₂O, O₃, CH₄, N₂O, mais CO₂ = 280 ppm.*
 
@@ -176,7 +169,6 @@ T_s(^\circ\text{C}) = 288.15 - 273.15 = \mathbf{15.0^\circ\text{C}}
 $$
 
 **Résultat** :  
-
 <div class="indent-result">
 Température = 15.0 °C
 </div>
@@ -190,9 +182,11 @@ Température = 15.0 °C
   [http://climatemodels.uchicago.edu/modtran/](http://climatemodels.uchicago.edu/modtran/)
 - **Trenberth et al., 2009** (*BAMS*, doi:10.1175/2008BAMS2634.1)
 
+</div>
 ---
 
 ## 4. CO₂ à 420 ppm (2024)
+<div class="indent-chap">
 
 *Atmosphère réaliste avec H₂O, O₃, CH₄, N₂O, mais CO₂ = 420 ppm.*
 
@@ -237,7 +231,6 @@ T_s(^\circ\text{C}) = 288.49 - 273.15 = \mathbf{15.34^\circ\text{C}}
 $$
 
 **Résultat** :  
-
 <div class="indent-result">
 Température = 15.34 °C
 </div>
@@ -251,9 +244,11 @@ Température = 15.34 °C
   [http://climatemodels.uchicago.edu/modtran/](http://climatemodels.uchicago.edu/modtran/)
 - **Trenberth et al., 2009** (*BAMS*, doi:10.1175/2008BAMS2634.1)
 
+</div>
 ---
 
 ## 5. CO₂ à 560 ppm (doublement de 1880)
+<div class="indent-chap">
 
 *Atmosphère réaliste avec H₂O, O₃, CH₄, N₂O, mais CO₂ = 560 ppm.*
 
@@ -298,7 +293,6 @@ T_s(^\circ\text{C}) = 288.70 - 273.15 = \mathbf{15.55^\circ\text{C}}
 $$
 
 **Résultat** :  
-
 <div class="indent-result">
 Température = 15.55 °C
 </div>
@@ -312,9 +306,11 @@ Température = 15.55 °C
   [http://climatemodels.uchicago.edu/modtran/](http://climatemodels.uchicago.edu/modtran/)
 - **Trenberth et al., 2009** (*BAMS*, doi:10.1175/2008BAMS2634.1)
 
+</div>
 ---
 
 ## Comparaison des températures selon le CO₂ (MODTRAN)
+<div class="indent-chap">
 
 | Cas | CO₂ (ppm) | Température (°C) |
 |-----|-----------|------------------|
@@ -324,9 +320,11 @@ Température = 15.55 °C
 | Actuel (2024) | 420 | **15.34** |
 | Doublement (560 ppm) | 560 | **15.55** |
 
+</div>
 ---
 
 ## Et que dit le GIEC ?
+<div class="indent-chap">
 
 [Insérez ici votre petit texte explicatif sur le GIEC et les forçages radiatifs.]
 
@@ -336,9 +334,11 @@ Température = 15.55 °C
 
 **Faisons les calculs en partant de la valeur de la température de 1880, et regardons ce que produisent ces forçages radiatifs donnés par le GIEC.**
 
+</div>
 ---
 
 ## 6. Calcul GIEC : 420 ppm et 560 ppm à partir de 1880
+<div class="indent-chap">
 
 ### Modèle physique
 - **Température de référence (1880)** : **15.0 °C** = 288.15 K  
