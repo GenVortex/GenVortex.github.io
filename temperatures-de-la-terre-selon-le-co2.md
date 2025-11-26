@@ -320,7 +320,6 @@ Température = 15.55 °C
 | Actuel (2024) | 420 | **15.34** |
 | Doublement (560 ppm) | 560 | **15.55** |
 
-</div>
 ---
 
 ## Et que dit le GIEC ?
