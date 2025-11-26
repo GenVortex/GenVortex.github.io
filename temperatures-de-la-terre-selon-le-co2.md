@@ -10,10 +10,10 @@ permalink: /temperatures-de-la-terre-selon-le-co2/
 .blue-section { color: #1565c0; }
 .blue-hr {
   border: none !important;
-  border-top: 8px solid #003366 !important;
+  border-top: 4px solid #003366 !important;
   height: 0 !important;
   margin: 2em 0 !important;
-  opacity: 1 !important;
+  opacity: 0.7 !important;
   background: none !important;
 }
 </style>
