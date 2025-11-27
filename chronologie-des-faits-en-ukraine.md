@@ -3,15 +3,19 @@ title: "Chronologie des faits en Ukraine"
 layout: math
 permalink: /chronologie-des-faits-en-ukraine/
 ---
+
 On peut commencer l'histoire de l’Ukraine en 1991 lorsque le bloc soviétique explose et que des milliardaires, comme des requins après un naufrage, viennent s'emparer de toutes les richesses de l'état et que des mafias se mettent en place. Il n’y a plus de police, plus de professeurs, plus de retraites, plus rien, le chaos total.
 
 De ce chaos sort un état totalement corrompu, qui bascule selon les élections entre les pro-UE à l'OUEST, dont fait partie la capitale Kiev, et les pro-russes à l'EST.
 
-IMAGE elections-2004-2014-ukraine.png ICI
-https://en.wikipedia.org/wiki/2004_Ukrainian_presidential_election
-https://en.wikipedia.org/wiki/2010_Ukrainian_presidential_election
+<a href="https://GenVortex.github.io/images/elections-2004-2014-ukraine.png" target="_blank" rel="noopener noreferrer">
+  <img src="https://GenVortex.github.io/images/elections-2004-2014-ukraine.png" alt="Élections présidentielles 2004-2014 en Ukraine" style="width:45%;height:auto;float:left;margin-right:20px;margin-bottom:20px;">
+</a>
 
-En novembre 2013 le président de la Commission européenne, qui était à l'époque José Manuel Barroso a dit au président ukrainien Viktor Yanoukovytch qu'il ne pouvait pas avoir A LA FOIS des relations fortes avec la Russie, et profiter des accords de l'UE. Il devait choisir, prendre une décision. Etant pro-russe il a donc choisi la Russie contre l'UE. La population de Kiev, qui est fortement pro-UE est donc sortie dans les rues et sur la place Maïdan pour montrer son mécontentement.
+<a href="https://en.wikipedia.org/wiki/2004_Ukrainian_presidential_election" target="_blank" rel="noopener noreferrer">Élection présidentielle ukrainienne de 2004 (Wikipédia)</a><br>
+<a href="https://en.wikipedia.org/wiki/2010_Ukrainian_presidential_election" target="_blank" rel="noopener noreferrer">Élection présidentielle ukrainienne de 2010 (Wikipédia)</a>
+
+En novembre 2013 le président de la Commission européenne, qui était à l'époque José Manuel Barroso a dit au président ukrainien Viktor Yanoukovytch qu'il ne pouvait pas avoir A LA FOIS des relations fortes avec la Russie, et profiter des accords de l'UE. Il devait choisir, prendre une décision. Étant pro-russe il a donc choisi la Russie contre l'UE. La population de Kiev, qui est fortement pro-UE est donc sortie dans les rues et sur la place Maïdan pour montrer son mécontentement.
 
 Alors que les manifestations durent, la secrétaire d'état américaine Victoria Nuland discute déjà du choix des futurs ministres ukrainiens (!!!) : "Bien. Je ne pense pas que Klitsch devrait entrer au gouvernement. Je ne pense pas que ce soit nécessaire, je ne pense pas que ce soit une bonne idée." 
 <br><a href="https://www.reuters.com/article/world/leaked-audio-reveals-embarrassing-us-exchange-on-ukraine-eu-idUSBREA1601K/" target="_blank" rel="noopener noreferrer">https://www.reuters.com/article/world/leaked-audio-reveals-embarrassing-us-exchange-on-ukraine-eu-idUSBREA1601K/</a><br><a href="/archives/ref-6-nuland-transcription" target="_blank" rel="noopener noreferrer" style="color:#0066cc;font-size:0.95em;text-decoration:underline;">(transcription intégrale traduite ici)</a>
@@ -54,7 +58,7 @@ Un premier accord est mis en place à Minsk pour essayer de calmer la situation 
 La France et l'Allemagne devaient être garantes de l'accord mais on sait maintenant, parce qu'ils l'ont dit publiquement, que leur seul but était de laisser l'Ukraine s'armer afin d'obliger par la force le Donbass à renoncer à son autonomie.
 <br><a href="https://fr.wikipedia.org/wiki/Minsk_II" target="_blank" rel="noopener noreferrer">https://fr.wikipedia.org/wiki/Minsk_II</a><br><a href="/archives/ref-2-minsk-ii.html" target="_blank" rel="noopener noreferrer" style="color:#0066cc;font-size:0.95em;text-decoration:underline;">(copie locale ici)</a>
 
-Ces accords ne sont donc pas respectés, et la population ukrainienne vit donc une guerre contre le Donbass, où le gouvernement central de Kiev, avec l’aide de troupes nationalistes et parfois pro-nazis (Azof) s’oppose à des populations qui ont voté pour leur indépendance. Cette guerre aura fait 14.000 morts.
+Ces accords ne sont donc pas respectés, et la population ukrainienne vit donc une guerre contre le Donbass, où le gouvernement central de Kiev, avec l’aide de troupes nationalistes et parfois pro-nazis (Azov) s’oppose à des populations qui ont voté pour leur indépendance. Cette guerre aura fait 14.000 morts.
 
 En espérant sortir de ce chaos, la population ukrainienne décide de ne plus voter pour des politiciens qu’ils jugent corrompus, et votent pour un acteur hors système, d’origine juive, parlant le russe, qui dit qu’il va faire la paix, Volodymyr Zelensky.
 
