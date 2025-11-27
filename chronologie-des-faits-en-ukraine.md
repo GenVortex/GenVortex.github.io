@@ -3,17 +3,16 @@ title: "Chronologie des faits en Ukraine"
 layout: math
 permalink: /chronologie-des-faits-en-ukraine/
 ---
-
 On peut commencer l'histoire de l’Ukraine en 1991 lorsque le bloc soviétique explose et que des milliardaires, comme des requins après un naufrage, viennent s'emparer de toutes les richesses de l'état et que des mafias se mettent en place. Il n’y a plus de police, plus de professeurs, plus de retraites, plus rien, le chaos total.
 
 De ce chaos sort un état totalement corrompu, qui bascule selon les élections entre les pro-UE à l'OUEST, dont fait partie la capitale Kiev, et les pro-russes à l'EST.
 
 <a href="https://GenVortex.github.io/images/elections-2004-2014-ukraine.png" target="_blank" rel="noopener noreferrer">
-  <img src="https://GenVortex.github.io/images/elections-2004-2014-ukraine.png" alt="Élections présidentielles 2004-2014 en Ukraine" style="width:45%;height:auto;float:left;margin-right:20px;margin-bottom:20px;">
+  <img src="https://GenVortex.github.io/images/elections-2004-2014-ukraine.png" alt="Élections 2004-2014 en Ukraine" style="width:45%;height:auto;">
 </a>
 
-<a href="https://en.wikipedia.org/wiki/2004_Ukrainian_presidential_election" target="_blank" rel="noopener noreferrer">Élection présidentielle ukrainienne de 2004 (Wikipédia)</a><br>
-<a href="https://en.wikipedia.org/wiki/2010_Ukrainian_presidential_election" target="_blank" rel="noopener noreferrer">Élection présidentielle ukrainienne de 2010 (Wikipédia)</a>
+<a href="https://en.wikipedia.org/wiki/2004_Ukrainian_presidential_election" target="_blank" rel="noopener noreferrer">https://en.wikipedia.org/wiki/2004_Ukrainian_presidential_election</a><br>
+<a href="https://en.wikipedia.org/wiki/2010_Ukrainian_presidential_election" target="_blank" rel="noopener noreferrer">https://en.wikipedia.org/wiki/2010_Ukrainian_presidential_election</a>
 
 En novembre 2013 le président de la Commission européenne, qui était à l'époque José Manuel Barroso a dit au président ukrainien Viktor Yanoukovytch qu'il ne pouvait pas avoir A LA FOIS des relations fortes avec la Russie, et profiter des accords de l'UE. Il devait choisir, prendre une décision. Étant pro-russe il a donc choisi la Russie contre l'UE. La population de Kiev, qui est fortement pro-UE est donc sortie dans les rues et sur la place Maïdan pour montrer son mécontentement.
 
