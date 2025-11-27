@@ -24,7 +24,7 @@ Nuland vient encourager la population pour essayer d'obtenir le renversement du 
 
 Un président élu par le peuple ukrainien a donc été renversé par la seule population de Kiev avec l'aide de la CIA. 
 
-Le 23 février 2014 le président de la Douma assure l'intérim du président et menace de supprimer la langue russe comme langue officielle en abrogeant la loi Kivalov-Kolesnichenko. Cela concerne non seulement la langue russe mais toutes les langues minoritaires, dont le hongrois, ce qui explique que Victor Orban a refusé de soutenir Kiev, et ce qui explique aussi la position récente de la Roumanie, dont la population est aussi présente en Ukraine.
+Le 23 février 2014 le président de la Douma assure l'intérim du président et menace de supprimer la langue russe comme langue officielle en abrogeant <a href="https://zakon.rada.gov.ua/go/5029-17" target="_blank" rel="noopener noreferrer" style="color:#0066cc;text-decoration:underline;">la loi Kivalov-Kolesnichenko</a>. Cela concerne non seulement la langue russe mais toutes les langues minoritaires, dont le hongrois, ce qui explique que Victor Orban a refusé de soutenir Kiev, et ce qui explique aussi la position récente de la Roumanie, dont la population est aussi présente en Ukraine.
 
 Pour info les langues régionales étaient pourtant inscrites dans la constitution ukrainienne depuis 1989, avant la fin de l'URSS :
 "Les langues nationales peuvent être employées parallèlement à la langue ukrainienne dans les activités de l'État, le Parti, les organismes publics, les entreprises, les institutions et les organisations placés dans les lieux où résident la majorité des citoyens des autres nationalités (villes, régions, villages et conseils d'établissement, etc.)."
