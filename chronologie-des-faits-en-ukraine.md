@@ -7,6 +7,10 @@ On peut commencer l'histoire de l’Ukraine en 1991 lorsque le bloc soviétique 
 
 De ce chaos sort un état totalement corrompu, qui bascule selon les élections entre les pro-UE à l'OUEST, dont fait partie la capitale Kiev, et les pro-russes à l'EST.
 
+IMAGE elections-2004-2014-ukraine.png ICI
+https://en.wikipedia.org/wiki/2004_Ukrainian_presidential_election
+https://en.wikipedia.org/wiki/2010_Ukrainian_presidential_election
+
 En novembre 2013 le président de la Commission européenne, qui était à l'époque José Manuel Barroso a dit au président ukrainien Viktor Yanoukovytch qu'il ne pouvait pas avoir A LA FOIS des relations fortes avec la Russie, et profiter des accords de l'UE. Il devait choisir, prendre une décision. Etant pro-russe il a donc choisi la Russie contre l'UE. La population de Kiev, qui est fortement pro-UE est donc sortie dans les rues et sur la place Maïdan pour montrer son mécontentement.
 
 Alors que les manifestations durent, la secrétaire d'état américaine Victoria Nuland discute déjà du choix des futurs ministres ukrainiens (!!!) : "Bien. Je ne pense pas que Klitsch devrait entrer au gouvernement. Je ne pense pas que ce soit nécessaire, je ne pense pas que ce soit une bonne idée." 
