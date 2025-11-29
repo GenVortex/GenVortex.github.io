@@ -5,7 +5,7 @@ permalink: /chronologie-des-faits-en-ukraine/
 ---
 On peut commencer l'histoire de l’Ukraine en 1991 lorsque le bloc soviétique explose et que des milliardaires, comme des requins après un naufrage, viennent s'emparer de toutes les richesses de l'état et que des mafias se mettent en place. Il n’y a plus de police, plus de professeurs, plus de retraites, plus rien, le chaos total.
 
-De ce chaos sort un état totalement corrompu, qui bascule selon les élections entre les pro-UE à l'OUEST, dont fait partie la capitale Kiev, et les pro-russes à l'EST.
+De ce chaos sort un état totalement corrompu, qui bascule selon les élections entre les pro-UE à l'OUEST, dont fait partie la capitale Kiev, et les pro-russes à l'EST et au SUD.
 
 <a href="https://GenVortex.github.io/images/elections-2004-2014-ukraine.png" target="_blank" rel="noopener noreferrer">
   <img src="https://GenVortex.github.io/images/elections-2004-2014-ukraine.png" alt="Élections 2004-2014 en Ukraine" style="width:45%;height:auto;">
