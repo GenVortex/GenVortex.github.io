@@ -41,7 +41,7 @@ Poutine décide alors stratégiquement le 28 février 2014 d'intervenir pour sé
   <img src="https://genvortex.github.io/images/referendum-2014-crimee.png" alt="Référendum 2014 Crimée" style="width:33%;height:auto;">
 </a>
 
-La Crimée n'a été liée à l'Ukraine que de 1954 à 2014, soit seulement 60 ans. Elle a donc quasiment toujours été russe, et est peuplée majoritairement de russes. On peut toujours discuter d'un référendum fait avec des hommes en armes, mais environ 60% de Russes qui ne veulent pas voir leur langue perdre le statut de langue officielle, ça suffit largement à obtenir une majorité. 
+La Crimée n'a été liée à l'Ukraine que de 1954 à 2014, soit seulement 60 ans. Elle a donc quasiment toujours été russe, et est peuplée majoritairement de russes. On peut toujours discuter d'un référendum fait avec des hommes en armes, mais environ <a href="/archives/ref-8-population-en-crimee.html" target="_blank" rel="noopener noreferrer" style="color:#0066cc;text-decoration:underline;">60% de russes</a> qui ne veulent pas voir leur langue perdre le statut de langue officielle, ça suffit largement à obtenir une majorité. 
 
 Le 11 mai 2014 les républiques du Donbass, russophones et russophiles, créent leur propre référendum et suite aux résultats proclament leur autonomie. 
 
